@@ -1,0 +1,5 @@
+{
+  "name": "Spotify Recommender Client",
+  "description": "A frontend interface for the Spotify Playlist Recommender service, featuring playlist analysis, recommendation tuning, and audio previews.",
+  "requestFramePermissions": []
+}
